@@ -155,7 +155,7 @@ The cleaned dataset was imported into **Power BI** to create an interactive sale
 
 # 📸 Dashboard Preview
 
-![Sales Dashboard](images/sales_dashboard.png)
+![Sales Dashboard](Indian_Retail_Sales_Dashboard.png)
 
 > **Note:** Replace `images/sales_dashboard.png` with the actual path/name of your Power BI dashboard screenshot.
 
